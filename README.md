@@ -7,6 +7,7 @@ To study the dataset and perform Exploratory Data Analysis.
 To preprocess the dataset with oversampling, under sampling and augmentation techniques.
 To build and compare the results of hyper parameterization using ResNet18 and ResNet50 models.
 
+![Uploading image.png…]()
 
 ## Understanding the CALTECH-256 Dataset:-
 The Caltech-256 dataset is a collection of 30,607 images across 257 categories, with a minimum of 80 images per category.
