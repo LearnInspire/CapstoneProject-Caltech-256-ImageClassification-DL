@@ -9,6 +9,8 @@ To build and compare the results of hyper parameterization using ResNet18 and Re
 
 
 ## Understanding the CALTECH-256 Dataset:-
+![image](https://github.com/user-attachments/assets/988f3de1-2cac-4bab-bc2d-d39a59a026da)
+
 The Caltech-256 dataset is a collection of 30,607 images across 257 categories, with a minimum of 80 images per category.
 The images are of varying sizes.
 The dataset covers a wide range of objects, such as animals, vehicles, and natural objects.
@@ -22,7 +24,10 @@ Techniques used pre-trained CNN models such as ResNet18 and ResNet50 and hyper p
 
 
 ## Data Processing:-
-![image](https://github.com/user-attachments/assets/226bc5ec-1af6-4c0d-9da4-2b14d025b291)
+![image](https://github.com/user-attachments/assets/08ff8dcd-858f-4f5d-924a-178dd67d5455)
+
+![image](https://github.com/user-attachments/assets/ec25f2c5-a90d-42db-9daa-6a60a8e96050)
+
 
 
 
