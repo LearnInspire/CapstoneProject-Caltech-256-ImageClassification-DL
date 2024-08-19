@@ -21,6 +21,11 @@ Techniques used pre-trained CNN models such as ResNet18 and ResNet50 and hyper p
 ![image](https://github.com/user-attachments/assets/fa20699c-da9e-47b8-8c18-94c3c99fd7e2)
 
 
+## Data Processing:-
+![image](https://github.com/user-attachments/assets/226bc5ec-1af6-4c0d-9da4-2b14d025b291)
+
+
+
 
 
 
