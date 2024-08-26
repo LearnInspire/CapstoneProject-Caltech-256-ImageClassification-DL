@@ -20,8 +20,14 @@ Image classification involves categorizing images into specific classes or label
 The goal is to use and compare models that provide best accuracy in differentiating between different categories of images.
 Techniques used pre-trained CNN models such as ResNet18 and ResNet50 and hyper parameter tuning.
 
+## Exploratory Data Analysis
 ![image](https://github.com/user-attachments/assets/fa20699c-da9e-47b8-8c18-94c3c99fd7e2)
 
+![image](https://github.com/user-attachments/assets/3e7f37aa-9dd0-4904-a0a8-83df286fccfb)
+
+![image](https://github.com/user-attachments/assets/e74569b4-ddbb-4da5-aa6c-41f09a71d498)
+
+![image](https://github.com/user-attachments/assets/e414bedf-1318-47f7-98a5-6ff9bf202872)
 
 ## Data Processing:-
 ![image](https://github.com/user-attachments/assets/08ff8dcd-858f-4f5d-924a-178dd67d5455)
